@@ -38,12 +38,6 @@
             <artifactId>desktop-game-engine</artifactId>
             <version>1.0</version>
         </dependency>
-
-
-
-
-        <!--com.javarush: desktop-game-engine:1.0-->
-
     </dependencies>
 
     <build>
